@@ -5,7 +5,6 @@
     box-sizing: border-box;
   }
 
-
   .row{
     width: 100%;
   }
@@ -14,13 +13,18 @@
     width: 100%;
     float: none;
     margin-top: 30px;
+    padding: 0 20px;
   }
 
   #steps .row > .left, #steps .row > .central, #steps .row > .right{
     width: 100%;
     float: none;
     margin-top: 30px;
+    padding: 0 20px;
   }
 
+  #why {
+    padding: 0 20px;
+  }
 
 }
